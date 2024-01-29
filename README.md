@@ -1,2 +1,3 @@
 # RoBiblion.rus
-<a href="html/index.html">
+<head></head>
+<body><a href="html/index.html"></body>
